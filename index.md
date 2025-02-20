@@ -19,4 +19,4 @@ My current research is on the security and performance of blockchain protocols. 
 
 For more details about my research and publications, please look at my [CV](CV.pdf).
 
-google-site-verification: googlea0e98a2bba0a73cc.html
+<!--google-site-verification: googlea0e98a2bba0a73cc.html-->
