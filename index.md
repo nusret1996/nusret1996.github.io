@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![my photo](photo-best.jpg)
+<img src="photo-best.jpg" alt="my photo" width="50%">
 
 ### **Education** ###
 1. B.S. in Electrical Engineering and Computer Science (2015 - 2018)<br/>
