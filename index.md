@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![my photo](photo.jpg)
+![my photo](photo-best.jpg)
 
 ### **Education** ###
 1. B.S. in Electrical Engineering and Computer Science (2015 - 2018)<br/>
