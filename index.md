@@ -17,6 +17,6 @@ Stanford University (California, USA)
 
 I am a Research Associate at [a16z](https://a16zcrypto.com/research/), in the research lab led by Prof. [Tim Roughgarden](https://timroughgarden.org/). My current research is on applied cryptography and consensus protocols. I am also broadly interested in distributed systems, formal methods, and foundations of AI, along with its applications to security research. I am grateful to have [Prof. David Tse](https://tselab.stanford.edu/) and [Prof. Dan Boneh](https://crypto.stanford.edu/~dabo/) as my PhD advisors. During my PhD, I have done internships with [Celestia](https://celestia.org/), [Babylon Labs](https://babylonlabs.io/), and [a16z Crypto Research](https://a16zcrypto.com/research/).
 
-<!--For more details about my research and publications, please look at my [CV](Nusret_Tas_CV.pdf) and the projects tab.-->
+For more details about my research and publications, please look at my [CV](Nusret_Tas_CV.pdf).
 
 <!--google-site-verification: googlea0e98a2bba0a73cc.html-->
